@@ -8,4 +8,4 @@
 
 [SD](https://fenix.tecnico.ulisboa.pt/disciplinas/SDis12645111326/2016-2017/2-semestre)
 
-Projects Grade - 15/20 (Project divided into 4 parts with 2.78/3, 3.58/5, 5.06/6 and 3.00/6 respectively)
+Project Grade - 15/20 (Project divided into 4 parts with 2.78/3, 3.58/5, 5.06/6 and 3.00/6 respectively)
