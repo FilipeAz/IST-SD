@@ -1,0 +1,63 @@
+2017-04-06 13:18:02,367 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2017-04-06 13:19:12,840 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/mojo/exec-maven-plugin/1.4.0/exec-maven-plugin-1.4.0.pom
+2017-04-06 13:19:12,953 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/mojo/exec-maven-plugin/1.4.0/exec-maven-plugin-1.4.0.pom
+2017-04-06 13:19:13,171 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/mojo/exec-maven-plugin/1.4.0/exec-maven-plugin-1.4.0.jar
+2017-04-06 13:19:13,409 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/mojo/exec-maven-plugin/1.4.0/exec-maven-plugin-1.4.0.jar
+2017-04-06 13:19:26,152 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.komparator.A54:cc-ws-cli:1.0-SNAPSHOT @ C:\Users\Filipe\Desktop\IST\3ºAno\2º Semestre\SD\P2\A54-Komparator\cc-ws-cli\pom.xml.
+2017-04-06 13:19:27,310 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.xml.ws:jaxws-rt:jar:2.2.10 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2017-04-06 13:19:27,326 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for pt.ulisboa.tecnico.sdis:uddi-naming:jar:1.2 is missing, no dependency information available
+2017-04-06 13:19:27,802 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.komparator.A54:mediator-ws:1.0-SNAPSHOT @ C:\Users\Filipe\Desktop\IST\3ºAno\2º Semestre\SD\P2\A54-Komparator\mediator-ws\pom.xml.
+2017-04-06 13:19:27,989 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.komparator.A54:mediator-ws-cli:1.0-SNAPSHOT @ C:\Users\Filipe\Desktop\IST\3ºAno\2º Semestre\SD\P2\A54-Komparator\mediator-ws-cli\pom.xml.
+2017-04-06 13:19:28,214 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.komparator.A54:supplier-ws:1.0-SNAPSHOT @ C:\Users\Filipe\Desktop\IST\3ºAno\2º Semestre\SD\P2\A54-Komparator\supplier-ws\pom.xml.
+2017-04-06 13:19:28,443 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.komparator.A54:supplier-ws-cli:1.0-SNAPSHOT @ C:\Users\Filipe\Desktop\IST\3ºAno\2º Semestre\SD\P2\A54-Komparator\supplier-ws-cli\pom.xml.
+2017-04-06 13:19:32,373 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /mediator-ws-cli/src/main/java
+2017-04-06 13:19:32,390 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /mediator-ws-cli/src/test/java
+2017-04-06 13:19:32,391 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /mediator-ws-cli/src/test/resources
+2017-04-06 13:19:34,849 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /mediator-ws/src/main/java
+2017-04-06 13:19:34,854 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /mediator-ws/src/test/java
+2017-04-06 13:19:35,091 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /supplier-ws/src/main/java
+2017-04-06 13:19:35,092 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /supplier-ws/src/main/resources
+2017-04-06 13:19:35,107 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /supplier-ws/src/test/java
+2017-04-06 13:19:35,411 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.xml.ws:jaxws-tools:jar:2.2.10 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2017-04-06 13:19:38,477 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - cannot find file for junit:junit:4.12
+2017-04-06 13:19:38,488 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Processing: file:/C:/Users/Filipe/Desktop/IST/3ºAno/2º%20Semestre/SD/P2/A54-Komparator/supplier-ws-cli/../supplier-ws/src/main/resources/supplier.1_0.wsdl
+2017-04-06 13:19:38,494 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - jaxws:wsimport args: [-keep, -s, 'C:\Users\Filipe\Desktop\IST\3ºAno\2º Semestre\SD\P2\A54-Komparator\supplier-ws-cli\target\generated-sources\wsimport', -d, 'C:\Users\Filipe\Desktop\IST\3ºAno\2º Semestre\SD\P2\A54-Komparator\supplier-ws-cli\target\classes', -encoding, UTF-8, -Xnocompile, "file:/C:/Users/Filipe/Desktop/IST/3ºAno/2º%20Semestre/SD/P2/A54-Komparator/supplier-ws-cli/../supplier-ws/src/main/resources/supplier.1_0.wsdl"]
+2017-04-06 13:19:42,588 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /supplier-ws-cli/src/main/java
+2017-04-06 13:19:42,608 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /supplier-ws-cli/target/generated-sources/wsimport
+2017-04-06 13:19:42,626 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /supplier-ws-cli/src/test/java
+2017-04-06 13:19:42,627 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /supplier-ws-cli/src/test/resources
+2017-04-06 13:19:43,278 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cc-ws-cli/src/main/java
+2017-04-06 13:19:43,279 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cc-ws-cli/src/test/java
+2017-04-06 13:19:43,419 [Worker-15] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 5 project(s) in 35 sec
+2017-04-06 13:19:49,658 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.xml.ws:jaxws-rt:jar:2.2.10 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2017-04-06 13:19:49,676 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for pt.ulisboa.tecnico.sdis:uddi-naming:jar:1.2 is missing, no dependency information available
+2017-04-06 13:19:49,993 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-06 13:19:50,046 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Filipe\Desktop\IST\3ºAno\2º Semestre\SD\P2\A54-Komparator\cc-ws-cli\src\main\resources
+2017-04-06 13:19:50,049 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-06 13:19:50,061 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Filipe\Desktop\IST\3ºAno\2º Semestre\SD\P2\A54-Komparator\cc-ws-cli\src\test\resources
+2017-04-06 13:19:50,180 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.xml.ws:jaxws-rt:jar:2.2.10 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2017-04-06 13:19:50,252 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for pt.ulisboa.tecnico.sdis:uddi-naming:jar:1.2 is missing, no dependency information available
+2017-04-06 13:19:50,270 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-06 13:19:50,276 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Filipe\Desktop\IST\3ºAno\2º Semestre\SD\P2\A54-Komparator\mediator-ws\src\main\resources
+2017-04-06 13:19:50,278 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-06 13:19:50,278 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Filipe\Desktop\IST\3ºAno\2º Semestre\SD\P2\A54-Komparator\mediator-ws\src\test\resources
+2017-04-06 13:19:50,338 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.xml.ws:jaxws-rt:jar:2.2.10 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2017-04-06 13:19:50,358 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for pt.ulisboa.tecnico.sdis:uddi-naming:jar:1.2 is missing, no dependency information available
+2017-04-06 13:19:50,428 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-06 13:19:50,429 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Filipe\Desktop\IST\3ºAno\2º Semestre\SD\P2\A54-Komparator\mediator-ws-cli\src\main\resources
+2017-04-06 13:19:50,431 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-06 13:19:50,505 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-04-06 13:19:50,764 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.xml.ws:jaxws-rt:jar:2.2.10 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2017-04-06 13:19:50,844 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for pt.ulisboa.tecnico.sdis:uddi-naming:jar:1.2 is missing, no dependency information available
+2017-04-06 13:19:50,878 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-06 13:19:50,880 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-04-06 13:19:50,968 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-06 13:19:50,969 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Filipe\Desktop\IST\3ºAno\2º Semestre\SD\P2\A54-Komparator\supplier-ws\src\test\resources
+2017-04-06 13:19:52,383 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.xml.ws:jaxws-rt:jar:2.2.10 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2017-04-06 13:19:52,479 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - cannot find file for junit:junit:4.12
+2017-04-06 13:19:52,496 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Processing: file:/C:/Users/Filipe/Desktop/IST/3ºAno/2º%20Semestre/SD/P2/A54-Komparator/supplier-ws-cli/../supplier-ws/src/main/resources/supplier.1_0.wsdl
+2017-04-06 13:19:52,498 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - jaxws:wsimport args: [-keep, -s, 'C:\Users\Filipe\Desktop\IST\3ºAno\2º Semestre\SD\P2\A54-Komparator\supplier-ws-cli\target\generated-sources\wsimport', -d, 'C:\Users\Filipe\Desktop\IST\3ºAno\2º Semestre\SD\P2\A54-Komparator\supplier-ws-cli\target\classes', -encoding, UTF-8, -Xnocompile, "file:/C:/Users/Filipe/Desktop/IST/3ºAno/2º%20Semestre/SD/P2/A54-Komparator/supplier-ws-cli/../supplier-ws/src/main/resources/supplier.1_0.wsdl"]
+2017-04-06 13:19:53,377 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-06 13:19:53,377 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Filipe\Desktop\IST\3ºAno\2º Semestre\SD\P2\A54-Komparator\supplier-ws-cli\src\main\resources
+2017-04-06 13:19:53,379 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-06 13:19:53,380 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
